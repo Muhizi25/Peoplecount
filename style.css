@@ -1,0 +1,18 @@
+
+
+body{
+    background-color: antiquewhite;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.container{
+background-image: url(images/train-5922321_640.jpg);
+overflow-x: hidden;
+overflow-y: hidden;
+margin-top: 60px;
+
+}
+h1,h2,p{
+    color: aliceblue;
+}
